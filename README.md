@@ -7,8 +7,7 @@ Comp 440 project Online Store
     Srilakshmi Prasanna Nikhitha Pithani-Environment Setup, created database schema, written store.sql file, logindb.php logic 
     to connect webpages to SQL database.
 
-    
-# Youtube Url:
+
 
 # Google Drive link: 
     https://drive.google.com/file/d/1Va0vnHbAu_JwH7iOsEweheUEn6EEqfKZ/view?usp=sharing
@@ -35,6 +34,9 @@ Comp 440 project Online Store-Phase or Part2
 	Udaya Kesava Sai Praneeth Jonnalagedda:
 	   Created a form-based search interface that returns all items in a given category after a single type in that category.
 	   Written code to display the results as a table on the web-page.
+
+Google drive and video link:
+https://drive.google.com/drive/folders/1rsWlsA_6WjdV2ZOHL-8wkt5WaZTQogZT?usp=drive_link
 
 
     
