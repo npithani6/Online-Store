@@ -39,5 +39,34 @@ Google drive and video link:
 https://drive.google.com/drive/folders/1rsWlsA_6WjdV2ZOHL-8wkt5WaZTQogZT?usp=drive_link
 
 
+# Online-Store
+Comp 440 project Online Store - Phase or Part 3
+
+# Team 42 now, team numbers were changed, it was 43 at phase 1 time.
+# Team Members:
+
+    Raviteja Pothala:
+	   Implemented the functionality of query 1 to list most expensive items in the specific category
+	   Created the sql query for the functionality for query 10 to list out mutual pairs of users who rate each others posts as excellent.
+	   Implemented the user interface and  functionality of query 3 to list all the items for specific user with specific excellent or fair rating.
+	   Implemented the functionality for query 8 to list out users who post only poor reviews.
+	
+    Srilakshmi Prasanna Nikhitha Pithani:
+	   Created UI for choosing the user from drop down and to mark them as their favorite. 
+	   Implemented the functionality of query 5 to list the other users who are favorited by both users X, and Y
+	   Created drop down menus for Usernames X and Y to be selected.
+	   Implemented query 6 functionality to display all the users who never posted any "excellent" items based on a condition such that an item is excellent if at least three reviews are excellent.
+	   Implemented query 4 functionality which is to list the users who posted the most number of items on a specific date like given by the user and written logic in such a way to list all the users who have a tie. 
+
+	Udaya Kesava Sai Praneeth Jonnalagedda:
+	   Implemented the user interface and functionality of query 2 to list the users who posted at least two items that were posted on the same day, one has a category of X, and another has a category of Y.
+	   Implemented the functionality of query 7 to list out users who never posted poor reviews
+	   Implemented the functionality of query 9 to list  those users such that each item they posted so far never received any "poor" reviews.
+	   Implemented the database for favorite table.
+
+# Google Drive link of recording: https://drive.google.com/drive/folders/1rsWlsA_6WjdV2ZOHL-8wkt5WaZTQogZT
+
+# Github link: https://github.com/npithani6/Online-Store/tree/main
     
+
 
